@@ -3,7 +3,7 @@ This application helps you to manage meetings and take attendance of members at 
 
 <br> Demo of app is available <a href="http://abhishekraj007.github.io/apps/MeetingManager"> here</a><br>
 
-#Feature of this app
+<h1>Feature of this app</h1>
 <ul>
 <li> Responsive and beautiful UI</li>
 <li> Multiple user Login and Registration</li>
@@ -12,7 +12,7 @@ This application helps you to manage meetings and take attendance of members at 
 </ul>
 
 
-#Framework and Tools used:
+<h1>Framework and Tools used:</h1>
 
 <ul>
 <li> AngularJs</li>
