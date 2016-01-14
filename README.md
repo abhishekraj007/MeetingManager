@@ -6,7 +6,7 @@ This application helps you to manage meetings and take attendance of members at 
 #Feature of this app
 <ul>
 <li> Responsive and beautiful UI</li>
-<li> Multiple user Login and Registratio for free</li>
+<li> Multiple user Login and Registration</li>
 <li> Create as many meetings as you want</li>
 <li> Add unlimited numbers of members to sigle or multiple meetings.</li>
 </ul>
@@ -15,8 +15,10 @@ This application helps you to manage meetings and take attendance of members at 
 #Framework and Tools used:
 
 <ul>
-<li> Angular</li>
+<li> AngularJs</li>
 <li> Firebase for database</li>
-<li>Gulp for realtime simulation</li>
+<li>Gulp to automatic reloading</li>
 </ul>
+
+<p>The project was build when I was learning firebase and angularJs. It might contain some bug. feel free to fork and enhance some of its feature.<p>
 
