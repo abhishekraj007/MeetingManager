@@ -1,0 +1,15 @@
+{
+  "name": "MeetingManager",
+  "version": "0.0.1",
+  "description": "An application for taking attendance at meetups or managing meeting.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishekraj007/MeetingManager.git"
+  },
+  "author": "Abhishek Raj",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.8.1"
+  }
+}
