@@ -1,7 +1,7 @@
 # MeetingManager
 This is a real-time web application which help you to manage meetings, take attendance of members at meetup. Add unlimited numbers of members to single or multiple meetings. Responsive UI Design. 
 
-<br> Demo of app is available <a href="http://abhishekraj.info/apps/MeetingManager/"> here</a><br>
+<br> Demo of app is available <a href="http://abhishekraj.info/apps/MeetingManager/" target="_blank"> here</a><br>
 
 <h2>Feature of this app</h2>
 <ul>
