@@ -1,5 +1,6 @@
 # MeetingManager
 This is a real-time web application which help you to manage meetings, take attendance of members at meetup. Add unlimited numbers of members to single or multiple meetings. Responsive UI Design. 
+<br><hr>
 <br>
 <img src="screenshots/register.png" alt="screenshots"/>
 
