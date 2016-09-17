@@ -4,7 +4,8 @@ This is a real-time web application which help you to manage meetings, take atte
 <br>
 <img src="screenshots/register.png" alt="screenshots"/>
 
-<br> Demo of app is available <a href="http://abhishekraj.info/apps/MeetingManager/" target="_blank"> here</a><br>
+<h2>Demo</h2>
+ Demo of this app is available <a href="http://abhishekraj.info/apps/MeetingManager/" target="_blank"> here</a><br>
 
 <h2>Features</h2>
 <ul>
