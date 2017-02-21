@@ -2,12 +2,17 @@
 This is a real-time web application which help you to manage meetings, take attendance of members at meetup. Add unlimited numbers of members to single or multiple meetings. Responsive UI Design. 
 <br>
 <br>
+
+## Screenshots
+
 <img src="screenshots/register.png" alt="screenshots"/>
+<img src="screenshots/addmeeting.png" alt="screenshots"/>
+<img src="screenshots/members.png" alt="screenshots"/>
+<img src="screenshots/members_s.png" alt="screenshots"/>
 
-<h2>Demo</h2>
-Find Demo <a href="http://abhishekraj.info/apps/MeetingManager/" target="_blank"> here</a>
 
-<h2>Features</h2>
+
+## Features
 <ul>
 <li> Responsive and beautiful UI</li>
 <li> Real Time updates</li>
@@ -18,7 +23,7 @@ Find Demo <a href="http://abhishekraj.info/apps/MeetingManager/" target="_blank"
 </ul>
 
 
-<h2>Framework and Tools used:</h2>
+## Framework and Tools used:
 
 <ul>
 <li> AngularJs</li>
